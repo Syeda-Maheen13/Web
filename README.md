@@ -16,8 +16,8 @@
 * Mobile-Friendly Interface: Asan navigation aur accessibility ke liye mobile-responsive design.
 
 ## page 1
-  <img src="panda-cub-resting-on-tree-feng-wei-photography.jpg" alt="">
+  <img src="panda-cub-resting-on-tree-feng-wei-photography.jpg" alt="" width="200px">
 
 ## page 2
-  <img src="istockphoto-523761634-612x612.jpg" alt="">
+  <img src="istockphoto-523761634-612x612.jpg" alt=""  width="200px">
 
